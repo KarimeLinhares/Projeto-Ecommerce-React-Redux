@@ -48,6 +48,7 @@ No site fiz dois dos desafios propostos pela dev onde:
 
 ### Funcionamento
 Assim como instruído pela dev, existe o funcionamento das páginas home e contatos, além da parte de cart.
+A app faz a leitura da quantidade de itens expostos e quais categorias cada um faz part, e coloca na coluna de disponíveis. E no cart, aparecem quais produtos estão sendo adicionados, quantos são e fazem a soma do valor total.
 
 #### Páginas e links
 
