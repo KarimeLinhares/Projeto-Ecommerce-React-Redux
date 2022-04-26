@@ -24,12 +24,13 @@ O projeto tem como propósito criar uma página de ecommerce, para isso foi util
 Repaginei o site proposto pela expert Nathally Souza, o transformando em um site de compras de action figures japoneses conhecidos como, Nendoroids.
 
 ```shell
-Nendoroid [ねんどろいど] são action figures no estilo chibi (cabeçudos), articulados, extremamente customizáveis e possuem 
-cerca de 10cm de altura, originalmente fabricados pela Goodsmile Company no ano de 2006. A marca Nendoroid abrange uma 
-variedade de produtos diferentes com personagens de animes, jogos, mangas, filmes, vocaloid e outros personagens de sucesso. 
-Existem dezenas de marcas que tentam imitar os originais nendoroid.
-Uma de suas principais vantagens é seu preço baixo em relação aos figma, sua qualidade bem detalhada e seu tamanho que 
-ajuda na hora de poupar espaço. Em japonês seu nome pode ser abreviado para nendoro [ねんどろ].
+Nendoroid [ねんどろいど] são action figures no estilo chibi (cabeçudos), articulados, extremamente 
+customizáveis e possuem cerca de 10cm de altura, originalmente fabricados pela Goodsmile Company no 
+ano de 2006. A marca Nendoroid abrange uma variedade de produtos diferentes com personagens de animes, 
+jogos, mangas, filmes, vocaloid e outros personagens de sucesso. Existem dezenas de marcas que 
+tentam imitar os originais nendoroid.
+Uma de suas principais vantagens é seu preço baixo em relação aos figma, sua qualidade bem detalhada e 
+seu tamanho que ajuda na hora de poupar espaço. Em japonês seu nome pode ser abreviado para nendoro [ねんどろ].
 ```
 
 Na página, eu preferi fazer um estilo mais simples e limpo para poder chamar mais a atenção aos produtos.
